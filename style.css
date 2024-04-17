@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header-left{
+    display: flex;
+    padding: 80px 100px; 
+}
+.header-left h1{
+padding-top: 10px;
+padding-left: 10px;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 32.68px;
+text-align: left;
+color: rgb(255, 0, 0);
+}
+ul{
+    display: flex;
+    gap: 80px;
+    list-style: none;
+   padding-top: 100px;
+   padding-right: 600px;
+  
+}
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-one{
+    background-image: url(image\ 4.png);
+    width: 1440px;
+height: 533px;
+padding-bottom: 300px;
+margin-left: 50px;
+display: flex;
+
+
+}
+.hero{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+ .left{
+    color: white;
+padding-left: 100px;
+ padding-top: 150px;
+ }
+ .H1{
+margin-top: 100px;
+margin-left: 700px;
+ }
+ .medicine{
+    padding: 80px;
+ }
+ .hjioma{
+margin-top: 100px;
+
+ }
+ .HJIOMA{
+    display: flex;
+ }
+ p{
+    margin-top: 200px;
+    width: 600px;
+ }
+ .Spa{
+    margin-left: 100px;
+ }
+ .SPA{
+    display: flex;
+ }
+ .spa{
+margin-left: 90px;
+ }
+.section-three{
+    width: 1500px;
+    height: 700px;
+    
+    margin-top: 200px;
+    background-color: blue;
+}
+.image{
+    margin-left: 60px;
+    position: absolute;
+  top: -120px;
+}
+.position-ota{
+    position: relative;
+}
+.rasm{
+    margin-left: 570px;
+    position: absolute;
+  top: -120px; 
+}
+.rusm{
+    margin-left: 1100px;
+    position: absolute;
+  top: -120px; 
+}
+.yoram{
+    display: flex;
+}
+.inputlar{
+  margin-left: 300px;
+   flex-direction:column ;
+    margin-top: 500px;
+}
+.Main-header{
+    background-color: black;
+    display: flex;
+}
+.men{
+    color: red;
+}
+.san{
+    color: white;
+}
